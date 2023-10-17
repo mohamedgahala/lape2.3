@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lape2.2</string>
+    <string name="selection_chars">symbols</string>
+        <string-array name="selection_options">
+            <item>words</item>
+            <item>symbols</item>
+        </string-array>
+    </resources>
